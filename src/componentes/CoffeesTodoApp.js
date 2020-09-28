@@ -1,9 +1,9 @@
 import React from 'react'; 
 
-const CoffeApp = () => {
+const CoffeesTodoApp = () => {
     return ( 
         <>
-            <h1>Coffee App</h1>
+            <h1>CoffeesTodoApp</h1>
 
             <div className="content">
                 <form id="add-cafe-form">
@@ -17,4 +17,4 @@ const CoffeApp = () => {
      );
 }
  
-export default CoffeApp;
+export default CoffeesTodoApp;
